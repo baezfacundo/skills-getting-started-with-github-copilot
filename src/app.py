@@ -38,6 +38,42 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Basketball Team": {
+        "description": "Practice teamwork and compete in interschool basketball matches",
+        "schedule": "Tuesdays and Thursdays, 4:30 PM - 6:00 PM",
+        "max_participants": 15,
+        "participants": ["liam@mergington.edu", "noah@mergington.edu"]
+    },
+    "Soccer Club": {
+        "description": "Develop soccer skills through drills and friendly competitions",
+        "schedule": "Wednesdays and Fridays, 3:45 PM - 5:15 PM",
+        "max_participants": 18,
+        "participants": ["isabella@mergington.edu", "ethan@mergington.edu"]
+    },
+    "Painting Workshop": {
+        "description": "Explore painting techniques with acrylics, watercolor, and mixed media",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": ["mia@mergington.edu", "charlotte@mergington.edu"]
+    },
+    "School Choir": {
+        "description": "Build vocal skills and perform in school and community events",
+        "schedule": "Thursdays, 2:30 PM - 4:00 PM",
+        "max_participants": 25,
+        "participants": ["amelia@mergington.edu", "james@mergington.edu"]
+    },
+    "Debate Club": {
+        "description": "Practice public speaking, argumentation, and competitive debate formats",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": ["benjamin@mergington.edu", "harper@mergington.edu"]
+    },
+    "Math Olympiad Prep": {
+        "description": "Train for advanced problem-solving and mathematics competitions",
+        "schedule": "Fridays, 2:30 PM - 4:00 PM",
+        "max_participants": 12,
+        "participants": ["elijah@mergington.edu", "evelyn@mergington.edu"]
     }
 }
 
